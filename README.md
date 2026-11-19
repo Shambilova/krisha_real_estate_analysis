@@ -34,4 +34,4 @@
 Python, NumPy, pandas, Matplotlib, seaborn, SciPy, scikit-learn, BeautifulSoup4.
 
 ## Запуск
-[Открыть в Google Colab](https://colab.research.google.com/github/Shambilova/krisha_real_estate_analysis/blob/main/krisha_real_estate_analysis.ipynb)
+[Открыть в Google Colab](https://colab.research.google.com/github/Shambilova/krisha_real_estate_analysis/blob/main/krisha_real_estate_analysis(2).ipynb)
